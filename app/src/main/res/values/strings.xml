@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TweetWidget</string>
+    <string name="appwidget_text">帰宅Tweet!</string>
+    <string name="add_widget">Add widget</string>
+</resources>
