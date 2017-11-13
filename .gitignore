@@ -8,6 +8,8 @@
 /captures
 .externalNativeBuild
 
+# API key file
+app/src/main/res/values/keys.xml
 
 # Created by https://www.gitignore.io/api/android,androidstudio
 
